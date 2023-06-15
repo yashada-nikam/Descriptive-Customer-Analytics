@@ -1,5 +1,4 @@
 # Descriptive-Customer-Analytics
-Descriptive Customer Analytics using Tableau
 
 Gain actionable insights by analyzing revenue data.
 
@@ -11,4 +10,4 @@ Factors considered -
 5. Revenue per Region (%)
 6. Revenue per Category per Gender (%)
 
-Tableau Public : https://public.tableau.com/views/DescriptiveCustomerAnalytics/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Tableau Public : [Dashboard](https://public.tableau.com/views/DescriptiveCustomerAnalytics/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
